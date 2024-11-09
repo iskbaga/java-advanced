@@ -1,0 +1,35 @@
+Summary Statistics
+   Number of sentences: 0
+   Number of words: 0
+   Number of numbers: 9
+   Number of amounts: 4
+   Number of dates: 0
+Statistics by sentences
+   Number of sentences: 0.
+   Minimum sentence: "Nothing".
+   Maximum sentence: "Nothing".
+   Minimum sentence length: 0 ("Nothing").
+   Maximum sentence length: 0 ("Nothing").
+   Mean sentence length: Nothing.
+Statistics by words
+   Number of words: 0.
+   Minimum word: "Nothing".
+   Maximum word: "Nothing".
+   Minimum word length: 0 ("Nothing").
+   Maximum word length: 0 ("Nothing").
+   Mean word length: Nothing.
+Statistics by numbers
+   Number of numbers: 9(9 distinct).
+   Minimum number: -1.
+   Maximum number: 1,000,000,000.
+   Mean number: 112,347,217.717.
+Statistics by money amounts
+   Number of amounts: 4(4 distinct).
+   Minimum amount: -$1.00.
+   Maximum amount: $1,000,000,000.00.
+   Mean amount: $250,280,880.00.
+Statistics by dates
+   Number of dates: 0.
+   Minimum date: Nothing.
+   Maximum date: Nothing.
+   Mean date: Nothing.

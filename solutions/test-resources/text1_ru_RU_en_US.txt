@@ -1,0 +1,35 @@
+Summary Statistics
+   Number of sentences: 13
+   Number of words: 116
+   Number of numbers: 22
+   Number of amounts: 4
+   Number of dates: 6
+Statistics by sentences
+   Number of sentences: 13(13 distinct).
+   Minimum sentence: "Aaaaa aaaa aaaaa aaaaaaa aaaa.".
+   Maximum sentence: "Я буду сдавать матан 9 февраля 2024 г. и надеюсь, что к этому времени я выучу его.".
+   Minimum sentence length: 29 ("Проверка другой валюты ¥6000.").
+   Maximum sentence length: 200 ("Для этого теста важно убедиться, что даты и суммы денег для различных локалей отображаются корректно, а числа остаются в исходном формате, а это должно быть самым длинным предложением на 200 символов.").
+   Mean sentence length: 68.308.
+Statistics by words
+   Number of words: 116(92 distinct).
+   Minimum word: "Aaaaa".
+   Maximum word: "я".
+   Minimum word length: 1 ("г").
+   Maximum word length: 12 ("отображаются").
+   Mean word length: 4.879.
+Statistics by numbers
+   Number of numbers: 22(16 distinct).
+   Minimum number: 1.
+   Maximum number: 1,000,000,000,000,000.
+   Mean number: 45,454,545,511,463.07.
+Statistics by money amounts
+   Number of amounts: 4(4 distinct).
+   Minimum amount: $75.65.
+   Maximum amount: $1,000,000,000,000,000.00.
+   Mean amount: $250,000,000,001,290.34.
+Statistics by dates
+   Number of dates: 6(6 distinct).
+   Minimum date: Feb 1, 2023.
+   Maximum date: Sep 29, 2024.
+   Mean date: Mar 26, 2024.
